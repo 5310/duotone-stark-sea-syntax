@@ -1,8 +1,8 @@
 {
-  "name": "duotone-dark-sea-syntax",
+  "name": "duotone-stark-sea-syntax",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "A dark blue-green DuoTone syntax theme",
+  "description": "A stark blue-green DuoTone syntax theme",
   "keywords": [
     "dark",
     "blue",
