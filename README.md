@@ -1,6 +1,6 @@
-# DuoTone Dark Sea Theme
+# DuoTone Stark Sea
 
-A greyer variant of the original [DuoTone Dark Sea](https://atom.io/themes/duotone-dark-sea-syntax) theme.
+A greyer variant of the original [DuoTone Dark Sea](https://atom.io/themes/duotone-dark-sea-syntax) theme for Atom.
 
 Very little of this repository has been altered from the origin: [simurai/duotone-light-syntax](https://github.com/simurai/duotone-dark-sea-syntax)
 
