@@ -2,7 +2,7 @@
 
 A greyer variant of the original [DuoTone Dark Sea](https://atom.io/themes/duotone-dark-sea-syntax) theme for Atom.
 
-Very little of this repository has been altered from the origin: [simurai/duotone-light-syntax](https://github.com/simurai/duotone-dark-sea-syntax)
+Very little of this repository has been altered from the origin: [simurai/duotone-dark-sea-syntax](https://github.com/simurai/duotone-dark-sea-syntax)
 
 ![screenshot](https://raw.github.com/5310/duotone-stark-sea-syntax/master/screenshot.png)
 
